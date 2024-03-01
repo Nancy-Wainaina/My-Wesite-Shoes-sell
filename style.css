@@ -1,0 +1,92 @@
+#Navigation-bar{
+
+
+background-color: black;
+    
+
+}
+
+button {
+    background-color: whitesmoke;
+    border: none;
+    color: purple;
+    padding: 10px 25px;
+    text-decoration: none;
+   margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 16px;
+    
+}
+    
+
+.display{
+   
+    background-image: url('Didplay.webp');
+    height: 1000px;
+    border-radius: 46px;
+    margin-bottom: 200px;
+    width: 80%;
+    margin-left: 200px;
+}
+h1{
+    font-size: 80px;
+
+}
+.style{
+width: 10%;
+background-color: black;
+color: aliceblue;
+margin-left: 700px;
+}
+
+#conclusion{
+
+    background-image: url('https://image.made-in-china.com/202f0j00tvIUOLHMZibN/Latest-Comfortable-Slip-on-Men-Canvas-Shoes-Fashion-Men-Casual-Shoes.webp');
+    height: 500px;
+    border-radius: 60px;
+    width: 80%;
+    margin-left: 200px;
+}
+.bottom{
+    background-color: black;
+    color: aliceblue;
+    height: 500px;
+    display: flex;
+    gap: 280px;
+}
+#first{
+    display: flex;
+    zoom:45%;
+}
+#comfort{
+    display: flex;
+    zoom:45%
+}
+#best{
+    display: flex;
+    zoom:45%;
+}
+#cash{
+    display: flex;
+    gap: 150px;
+}
+th{
+  text-align: left;
+  background-color: black;
+  color: white;
+}
+td,th{
+    border: 1px solid black;
+    padding: 80px;
+}
+
+
+
+  
+
+
+
+
+
+
